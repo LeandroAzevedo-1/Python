@@ -5,4 +5,4 @@ i = 0
 while i < len(listaNumeros):
     multiplica = multiplica*listaNumeros[i]
     i = i+1
-print("multiplicacao dos numeross da lista: ", multiplica)    
+print("multiplicacao dos numeros da lista: ", multiplica)    
