@@ -24,7 +24,7 @@ tuplas = (40,33,22,53,98,10)
 lista = [25,44,99]
 
 #exemplos: impirmindo letra por letra
-      nome = "Leanseo"
+      nome = "Leo"
       for x in nome:
-      print(x)#nome expresso letra por letra linha a linha
+            print(x)#nome expresso letra por letra linha a linha
       
