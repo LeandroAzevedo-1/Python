@@ -1,7 +1,7 @@
 #Funções - trecho de código damos nomes passamos alguns componentes
-#funções tras vanges, facilde escrever e ler .
+#funções tras vantagens, facilita a escrita e como ler.
 #permite a reutilização de código .
-#sintaxe basica começando com def nomesdafunção e os paremetros exemplos
+#sintaxe basica começando com def nomes da função e os parâmetros exemplos
 
 #Funçao que não recebe parâmetro
 def exibemsg():
@@ -16,7 +16,7 @@ exibemsg() # chamando a função
 def media(n1,n2,n3):
     calcMedia =(n1+n2+n3)/3
     print(calcMedia)
-media(3,7,9)#chamandoa a função os valos ta de forma fixa mais pode pedir p usuário
+media(3,7,9)  #chamandoa a função os valos ta de forma fixa mais pode pedir p usuário
 
 
 #Funçao media pedindo para o usuario digitar o número
